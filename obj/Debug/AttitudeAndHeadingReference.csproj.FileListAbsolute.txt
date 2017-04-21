@@ -1,0 +1,9 @@
+D:\Program Files\VS Workspace\AttitudeAndHeadingReference\AttitudeAndHeadingReference\bin\Debug\AttitudeAndHeadingReference.exe.config
+D:\Program Files\VS Workspace\AttitudeAndHeadingReference\AttitudeAndHeadingReference\bin\Debug\AttitudeAndHeadingReference.exe
+D:\Program Files\VS Workspace\AttitudeAndHeadingReference\AttitudeAndHeadingReference\bin\Debug\AttitudeAndHeadingReference.pdb
+D:\Program Files\VS Workspace\AttitudeAndHeadingReference\AttitudeAndHeadingReference\obj\Debug\AttitudeAndHeadingReference.Form1.resources
+D:\Program Files\VS Workspace\AttitudeAndHeadingReference\AttitudeAndHeadingReference\obj\Debug\AttitudeAndHeadingReference.Properties.Resources.resources
+D:\Program Files\VS Workspace\AttitudeAndHeadingReference\AttitudeAndHeadingReference\obj\Debug\AttitudeAndHeadingReference.csproj.GenerateResource.Cache
+D:\Program Files\VS Workspace\AttitudeAndHeadingReference\AttitudeAndHeadingReference\obj\Debug\AttitudeAndHeadingReference.exe
+D:\Program Files\VS Workspace\AttitudeAndHeadingReference\AttitudeAndHeadingReference\obj\Debug\AttitudeAndHeadingReference.pdb
+D:\Program Files\VS Workspace\AttitudeAndHeadingReference\AttitudeAndHeadingReference\obj\Debug\AttitudeAndHeadingReference.csprojResolveAssemblyReference.cache
